@@ -18,7 +18,7 @@
 
 [Defines]
   SOC_PLATFORM            = SM8250
-  USE_PHYSICAL_TIMER      = FALSE
+  USE_PHYSICAL_TIMER      = TRUE
 
 !include Silicon/Qualcomm/QcomPkg/QcomCommonDsc.inc
 
